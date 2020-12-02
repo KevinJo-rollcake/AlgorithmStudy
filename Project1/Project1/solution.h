@@ -1,0 +1,15 @@
+#pragma once
+void solution_while();
+void solution_for();
+void solution_array();
+void solution_maximum();
+void solution_BruteForce();
+void selectionSort();
+void AdBruteForce();
+void solution_Struct();
+void stack();
+void queue();
+void Circularqueue();
+void AdjacencyMatrix();
+void Vector();
+void AdjacencyList();
